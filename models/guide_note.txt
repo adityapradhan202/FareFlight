@@ -1,0 +1,1 @@
+knn model will be stored here! The knn model was of 95 mb, so I didn't commit it.
